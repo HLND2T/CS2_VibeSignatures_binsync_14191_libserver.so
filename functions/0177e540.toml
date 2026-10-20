@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.036669Z
+addr = 0x177e540
+size = 0x118
+name = "CLoopModeGame_SetGameSystemState"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_SetGameSystemState"
+addr = 0x177e540
+type = "long long"
+
+[header.args]

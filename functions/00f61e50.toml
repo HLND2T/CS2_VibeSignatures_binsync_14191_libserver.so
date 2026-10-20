@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:11:29.036230Z
+addr = 0xf61e50
+size = 0x84d
+name = "Script_RegisterCommandLineFunctions"
+
+[header]
+name = "Script_RegisterCommandLineFunctions"
+addr = 0xf61e50
+
+[header.args]

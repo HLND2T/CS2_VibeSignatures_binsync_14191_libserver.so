@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.036362Z
+addr = 0x1496a50
+size = 0x2ea
+name = "CBasePlayerWeapon_Shoot_Secondary"
+type = "long long"
+
+[header]
+name = "CBasePlayerWeapon_Shoot_Secondary"
+addr = 0x1496a50
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.037091Z
+addr = 0x22d44e0
+size = 0xe4
+name = "CEntitySystem_InvokePrecacheCallback"
+type = "long long"
+
+[header]
+name = "CEntitySystem_InvokePrecacheCallback"
+addr = 0x22d44e0
+type = "long long"
+
+[header.args]

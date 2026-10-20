@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.037049Z
+addr = 0x22c0430
+size = 0xad
+name = "CEntitySystem_AddEntityToEntityDataBase"
+type = "long long"
+
+[header]
+name = "CEntitySystem_AddEntityToEntityDataBase"
+addr = 0x22c0430
+type = "long long"
+
+[header.args]

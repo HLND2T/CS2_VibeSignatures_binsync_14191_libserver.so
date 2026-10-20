@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.036374Z
+addr = 0x1532460
+size = 0x209
+name = "CCSPlayer_BulletServices_ctor"
+type = "long long"
+
+[header]
+name = "CCSPlayer_BulletServices_ctor"
+addr = 0x1532460
+type = "long long"
+
+[header.args]

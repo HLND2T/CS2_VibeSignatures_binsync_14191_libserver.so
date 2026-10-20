@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:11:29.037033Z
+addr = 0x22ba860
+size = 0x3
+name = "CEntitySystem_GetSpawnGroupWorldId"
+
+[header]
+name = "CEntitySystem_GetSpawnGroupWorldId"
+addr = 0x22ba860
+
+[header.args]

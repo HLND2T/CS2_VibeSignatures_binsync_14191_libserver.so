@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:11:29.036766Z
+addr = 0x185e750
+size = 0x1f
+name = "CBaseEntity_ScriptSetLocalAngularVelocity_OBSOLETE"
+
+[header]
+name = "CBaseEntity_ScriptSetLocalAngularVelocity_OBSOLETE"
+addr = 0x185e750
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:43.597629Z
+addr = 0x1584900
+size = 0xa70
+name = "GiveNamedItem"
+type = "long long"
+
+[header]
+name = "GiveNamedItem"
+addr = 0x1584900
+type = "long long"
+
+[header.args]

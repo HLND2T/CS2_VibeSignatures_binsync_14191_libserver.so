@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:11:51.661080Z
+addr = 0x22ba960
+size = 0x24
+name = "RegisterSchemaTypeOverride_CEntityHandle"
+
+[header]
+name = "RegisterSchemaTypeOverride_CEntityHandle"
+addr = 0x22ba960
+
+[header.args]

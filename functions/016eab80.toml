@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:29.036531Z
+addr = 0x16eab80
+size = 0x41
+name = "CSaveRestoreBlockSet_PreRestore"
+type = "long long"
+
+[header]
+name = "CSaveRestoreBlockSet_PreRestore"
+addr = 0x16eab80
+type = "long long"
+
+[header.args]

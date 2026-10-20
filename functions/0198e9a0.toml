@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:11:29.036857Z
+addr = 0x198e9a0
+size = 0x4b
+name = "CSource2Server_GameServerSteamAPIDeactivated"
+
+[header]
+name = "CSource2Server_GameServerSteamAPIDeactivated"
+addr = 0x198e9a0
+
+[header.args]
